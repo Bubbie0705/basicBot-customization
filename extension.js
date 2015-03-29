@@ -94,7 +94,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: null,
+        rulesLink: "http://forum.bubbienetwork.us.to/5-2-1#2",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
